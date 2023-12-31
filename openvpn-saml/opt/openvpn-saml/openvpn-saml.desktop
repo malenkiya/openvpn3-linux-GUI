@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=OpenVPN SAML
+Exec=/usr/bin/openvpn-saml
+Type=Application
+Icon=/opt/openvpn-saml/openvpn.png
+Categories=Network;
+Terminal=false

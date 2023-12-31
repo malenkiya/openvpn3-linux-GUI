@@ -1,0 +1,7 @@
+Package: openvpn-saml
+Version: 0.2
+Section: Network
+Priority: optional
+Architecture: amd64
+Maintainer: malenkiya@edin.ua
+Description: openvpn3 based GUI client for SAML auth
