@@ -8,7 +8,7 @@ echo "deb [signed-by=/etc/apt/keyrings/openvpn.asc] https://packages.openvpn.net
 sudo apt -y update
 sudo apt install -y openvpn3
 sudo apt install -y openvpn-dco-dkms 
-wget https://github.com/malenkiya/openvpn3-linux-GUI/raw/main/openvpn-saml.deb
+wget https://github.com/malenkiya/openvpn3-linux-GUI/releases/download/v.0.2/openvpn-saml.deb
 sudo dpkg -i openvpn-saml.deb
 
 
